@@ -1,4 +1,4 @@
-![xkcd](Icon.png)
+<img src="./Icon.png" align="left" hspace="10" vspace="6">
 
 #xkcd for flashlight
 
