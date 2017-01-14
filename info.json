@@ -1,0 +1,9 @@
+{
+  "name": "xkcd",
+  "displayName": "xkcd",
+  "description": "Web comics at your fingertips!",
+  "examples": ["xkcd real programmers", "xkcd hacker"],
+  "categories": ["Media"],
+  "creator_name": "theonlygusti",
+  "creator_url": "https://github.com/theonlygusti/flashlight-xkcd"
+}
